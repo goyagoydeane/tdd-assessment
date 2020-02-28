@@ -1,0 +1,7 @@
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment\bin\Debug\tdd-assessment.exe.config
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment\bin\Debug\tdd-assessment.exe
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment\bin\Debug\tdd-assessment.pdb
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment\obj\Debug\tdd-assessment.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment\obj\Debug\tdd-assessment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment\obj\Debug\tdd-assessment.exe
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment\obj\Debug\tdd-assessment.pdb

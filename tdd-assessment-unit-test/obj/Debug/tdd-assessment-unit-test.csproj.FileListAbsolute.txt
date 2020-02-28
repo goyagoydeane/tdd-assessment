@@ -1,0 +1,17 @@
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\tdd-assessment-unit-test.dll
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\tdd-assessment-unit-test.pdb
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\tdd-assessment.exe
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\tdd-assessment.pdb
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\tdd-assessment.exe.config
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\obj\Debug\tdd-assessment-unit-test.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\obj\Debug\tdd-assessment-unit-test.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\obj\Debug\tdd-assessment-unit-test.csproj.CopyComplete
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\obj\Debug\tdd-assessment-unit-test.dll
+C:\Users\ASUS\Source\Repos\tdd-assessment\tdd-assessment-unit-test\obj\Debug\tdd-assessment-unit-test.pdb
